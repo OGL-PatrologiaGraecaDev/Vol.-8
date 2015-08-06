@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/8/nnc1.0065752333/715.png"; bbox 0 0 2232 3306; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1432 0 2232 3306">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1770 1961 2232 3192">
+     <span class='ocr_line' id='line_1_1' title="bbox 2231 1961 2232 1985; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2231 1961 2232 1985; x_wconf 53' lang='grc'><strong>1</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1840 2969 2142 3030; baseline -0.007 -9"><span class='ocrx_word' id='word_1_2' title='bbox 1840 2992 1870 3030; x_wconf 77' lang='lat' dir='ltr'><strong>l;</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1908 3000 1914 3018; x_wconf 64' lang='grc'><strong><em>1</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1951 2969 2142 3030; x_wconf 30' lang='grc' dir='ltr'><strong>Μ’...</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1786 2988 2152 3168; baseline -0.014 -18"><span class='ocrx_word' id='word_1_5' title='bbox 1786 3062 1794 3075; x_wconf 89' lang='grc'><strong>··</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1828 2991 1934 3150; x_wconf 66' lang='grc' dir='ltr'><strong>ΙΗΙΙΙἸΙ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1988 2990 2031 3168; x_wconf 49' lang='lat' dir='ltr'><strong>Illi</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2045 2988 2149 3148; x_wconf 48' lang='lat' dir='ltr'><strong>IIIH‘IIH</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1770 3131 2151 3192; baseline 0 -13"><span class='ocrx_word' id='word_1_9' title='bbox 1845 3151 1960 3191; x_wconf 31' lang='lat'><strong>352.5099</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2014 3131 2151 3184; x_wconf 56' lang='lat'><strong>19982.65</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
